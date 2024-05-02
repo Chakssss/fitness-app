@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Chakssss/fitness-app.git/static/css/main.32ece884.css",
+    "main.js": "/Chakssss/fitness-app.git/static/js/main.e49ae5df.js",
+    "static/media/banner.png": "/Chakssss/fitness-app.git/static/media/banner.5209b5e92a864ca0c615.png",
+    "static/media/Creed.png": "/Chakssss/fitness-app.git/static/media/Creed.27c7c6fabdb14ffae34a.png",
+    "static/media/gym.png": "/Chakssss/fitness-app.git/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/Chakssss/fitness-app.git/index.html",
+    "main.32ece884.css.map": "/Chakssss/fitness-app.git/static/css/main.32ece884.css.map",
+    "main.e49ae5df.js.map": "/Chakssss/fitness-app.git/static/js/main.e49ae5df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32ece884.css",
+    "static/js/main.e49ae5df.js"
+  ]
+}
